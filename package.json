@@ -1,0 +1,11 @@
+{
+  "name": "junwoo-jang-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Junwoo Jang's static portfolio website.",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "check": "node --check js/contact_me.js && node --check js/freelancer.js"
+  },
+  "copyright": "Copyright (c) 2026 Junwoo Jang. Original site content reserved; Start Bootstrap Freelancer template software is MIT licensed."
+}
